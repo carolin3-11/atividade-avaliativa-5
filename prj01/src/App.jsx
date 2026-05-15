@@ -1,7 +1,7 @@
 import habitos from './assets/sw-book.jpg'
 import felizes from './assets/eva.jpg'
 import './App.css'
-import Card from './components/card'
+import Card from './components/Card'
 import maldicao from './assets/amaldicao.jpg'
 import erauma from './assets/eraumavez.jpg'
 import principe from './assets/oprincipecruel.jpg'
